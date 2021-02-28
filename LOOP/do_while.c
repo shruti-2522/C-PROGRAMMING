@@ -40,7 +40,7 @@ void main()
 2
 
  JAVATPOINT
-Do yopu want to enter more y
+Do you want to enter more y
 
  1.Javatpoint
 2.PHP
