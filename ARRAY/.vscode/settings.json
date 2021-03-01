@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "stdio.h": "c",
+        "2D_MATRIX.C": "cpp",
+        "PASSING_ARRAY_TO_FUNC.C": "cpp"
+    }
+}
